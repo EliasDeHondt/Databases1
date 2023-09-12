@@ -8,10 +8,10 @@ DROP TABLE IF EXISTS employees CASCADE;
 -- ******************************
 -- DELETE Attribuut
 -- ******************************
-DELETE FROM function;
-DELETE FROM tasks;
-DELETE FROM location;
-DELETE FROM employees;
+--DELETE FROM function;
+--DELETE FROM tasks;
+--DELETE FROM location;
+--DELETE FROM employees;
 -- ******************************
 -- CREATE Tables
 -- ******************************

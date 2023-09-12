@@ -8,7 +8,7 @@ drop table if exists film;
 
 drop table if exists language;
 
-drop table if existso actor;
+drop table if exists actor;
 
 drop sequence if exists customer_customer_id_seq;
 

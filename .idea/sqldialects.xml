@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Databank Scripts And ERD/DB Enterprise/Console_For_Enterprise.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Databank Scripts And ERD/DB Holiday Park/Console_For_Holiday_Park.sql" dialect="PostgreSQL" />
+  </component>
+</project>
