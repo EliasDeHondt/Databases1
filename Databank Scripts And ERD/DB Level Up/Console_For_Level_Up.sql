@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE salary > 4000
