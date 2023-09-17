@@ -1492,7 +1492,7 @@ CREATE USER Elias WITH CREATEDB; -- Deze user kan databanken maken
 --
 CREATE USER Elias IN ROLE rolNaam;
 --
-CREATE USER Elias PASSWORD x;
+CREATE USER Elias PASSWORD 'x';
 --
 CREATE ROLE rolNaam CREATEDB;
 --
