@@ -26,7 +26,7 @@ WHERE position('OO' in upper(last_name)) > 0 AND position('O' in upper(last_name
 --
 SELECT substr(street, 1, position('e' in lower(street))) || replace(substr(street, position('e' in lower(street))+1), 'e', 'o')  FROM employees;
 --
-SELECT lower(concat(substring(e.first_name, 1, 3), '.', substring(e.first_name, 3, 6), '@', department_name, '.be')) FROM employees eJOIN departments d ON e.department_id = d.department_id ORDER BY first_name;
+SELECT lower(concat(substring(e.first_name, 1, 3), '.', substring(e.first_name, 3, 6), '@', department_name, '.be')) FROM employees e JOIN departments d ON e.department_id = d.department_id ORDER BY first_name;
 --
 SELECT employee_id, name, relationship, CASE WHEN date_part('year', (age(birth_date))) < 18 THEN 'Child' ELSE 'Adult' END AS "age_categorie" FROM family_members WHERE relationship != upper('PARTNER');
 --
