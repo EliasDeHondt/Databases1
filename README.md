@@ -1,2 +1,22 @@
-# Databases1
-Project [Databases 1] First year exercises of training applied computer science at the KdG.
+![logo](https://eliasdh.com/assets/media/images/logo-github.png)
+# 💙🤍README🤍💙
+
+## 📘Table of Contents
+
+1. [📘Table of Contents](#📘table-of-contents)
+2. [🖖Introduction](#🖖introduction)
+3. [🔗Links](#🔗links)
+
+---
+
+## 🖖Introduction
+
+I kindly request your thorough examination and absorption of the comprehensive documentation incorporated within the confines of this repository. Your diligent review of the diverse materials provided herein will undoubtedly enhance your understanding of the intricacies and nuances associated with the contents therein.
+
+Please also see following documents:
+- [LICENSE](LICENSE.md)
+- [SECURITY](SECURITY.md)
+
+## 🔗Links
+- 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
+- 📫 How to reach us eliasdehondt@outlook.com.
