@@ -17,5 +17,5 @@ copies or substantial portions of the Software.
 
 The terms outlined in the following documents also apply to this repository:
 
-- [Privacy Policy](https://eliasdh.com/assets/pages/privacy-policy.html)
-- [Legal Guidelines](https://eliasdh.com/assets/pages/legal-guidelines.html)
+- [Privacy Policy](https://eliasdh.com/privacypolicy)
+- [Legal Guidelines](https://eliasdh.com/legalguidelines)
